@@ -294,8 +294,8 @@ sup > a::before,
   color: #ff4500;
 }
 html {
-  font-size: 16px;
-  letter-spacing: 0.02em;
+  font-size: 20px;
+  letter-spacing: 0.06em;
 }
 html,
 body {
